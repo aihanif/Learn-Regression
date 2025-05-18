@@ -1,7 +1,7 @@
 # Learn-Regression
 
 Description
- - The regression model is a supervise leasrning. this model used for prediction for countinuos value based on corelation features.
+ - The regression model is a supervise learning. this model used for prediction for countinuos value based on correlation features.
 
 Objective
 - Plot the Boxplot to visualize the outliers, remove the outlier data.
